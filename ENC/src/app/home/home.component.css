@@ -1,0 +1,13 @@
+#map {
+    height: 40vh;
+    width: 60vh;
+    margin: auto;
+  }
+
+.button1{
+  position: relative;
+  float: left;
+  left: 680px;
+  top:50px;
+
+}

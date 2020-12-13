@@ -1,0 +1,154 @@
+.e1{
+    position: relative;
+    top:30px;
+    left:10px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:white;
+    background-color: darkslategrey;
+}
+.e2{
+    position: relative;
+    top:30px;
+    left:20px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:white;
+    background-color: darkslategrey;
+}
+.e3{
+    position: relative;
+    top:230px;
+    left:-453px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:white;
+    background-color: darkslategrey;
+}
+.e4{
+    position: relative;
+    top:230px;
+    left:-443px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:white;
+    background-color: darkslategrey;
+}
+.e5{
+    position: relative;
+    top:30px;
+    left:-430px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:white;
+    background-color: darkslategrey;
+}
+.e6{
+    position: relative;
+    top:30px;
+    left:-420px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color:whitesmoke;
+}
+.e7{
+    position: relative;
+    top:50px;
+    left:500px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:black;
+    background-color:whitesmoke;
+}
+.e8{
+    position: relative;
+    top:50px;
+    left:510px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color: yellow;
+}
+.e9{
+    position: relative;
+    top:50px;
+    left:520px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:black;
+    background-color: yellow;
+}
+.e10{
+    position: relative;
+    top:50px;
+    left:530px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color: yellow;
+}
+.e11{
+    position: relative;
+    top:-150px;
+    left:50px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:black;
+    background-color: yellow;
+}
+.e12{
+    position: relative;
+    top:-150px;
+    left:60px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color: yellow;
+}
+.e13{
+    position: relative;
+    top:70px;
+    left:580px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color: whitesmoke;
+}
+.e14{
+    position: relative;
+    top:70px;
+    left:100px;
+    width:200px;
+    height: 150px;
+    float:left;
+    color:black;
+    background-color: whitesmoke;
+}
+.e15{
+    position: relative;
+    top:70px;
+    left:365px;
+    width:200px;
+    height: 150px;
+    float:left;
+    background-color: whitesmoke;
+}
+.e16{
+    position: relative;
+    height:20px;
+    width: 420px;
+    left: 100px;
+    float:left;
+    top:270px;
+    background-color: black;
+    color:whitesmoke
+}

@@ -1,0 +1,74 @@
+.Emergency{
+    position: relative;
+    float: left;
+    top:80px;
+    left:200px;
+    width:1200px;
+    height:200px;
+    background-color: red;
+    border-radius: 30px;
+    
+}
+.Needed{
+    position: relative;
+    float: left;
+    top:100px;
+    left:200px;
+    width:1200px;
+    height:200px;
+    background-color: orange;
+    border-radius: 30px;
+}
+.General{
+    position: relative;
+    float: left;
+    top:120px;
+    left:200px;
+    width:1200px;
+    height:200px;
+    background-color: green;
+    border-radius: 30px;
+}
+.v1{
+    top:80px;
+    left:600px;
+}
+.v2{
+    top:-560px;
+    left:1000px;
+}
+.e{
+    top:-1130px;
+    left:30px;
+    float:left;
+}
+.n{
+    top:-910px;
+    left:-70px;
+    float:left;
+}
+.g{
+    top:-680px;
+    left:-160px;
+    float:left;
+}
+.s{
+    top:-1275px;
+    left:80px;
+    float:left;
+}
+.m{
+    top:-1275px;
+    left:360px;
+    float:left;
+}
+.l{
+    top:-1275px;
+    left:660px;
+    float:left;
+}
+.d1{
+    float:left;
+    height:100px;
+
+}
